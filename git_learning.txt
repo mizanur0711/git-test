@@ -80,6 +80,12 @@ then push.
 next day pull.
 )
 
+cls-6
+
+adding a .gitignore file is help full
+here we will add filename or *.extention for ignoring it.
+
+
 
 
 
