@@ -1,0 +1,39 @@
+git is a version control system.
+maintaining source code or merging it become helpfull.
+
+commit:recording local work
+
+status:current project status
+add,diff,log,show,reset
+
+push:putting it in server of local work
+
+
+pull:fetch it from server
+
+
+stash:when we feel that i dont need that work anymore we use stash to remove it.
+
+
+git init : for initialize
+
+git add  : adding new file in git 
+
+git commit -m " " file.ext
+
+git checkout *5hash* :for going to a certain commit.
+
+git reset --soft *5hash* :  keeping change going back.
+
+git reset --hard *5hash* :  not keeping change going back.
+
+after push dont use reset.
+
+git commit --ammend  : it means you adding change to previous commit.
+
+git  stash : going to previous state but keeping current change hidden.
+git  stash pop: after stash we got back in previous state but if we
+                use stash pop we roll back to current state.
+               
+git stash list : for the list of stash
+                
