@@ -59,7 +59,26 @@ git clean -f -n : dry run for previous line.
 
 cls-5
 
+git clone ssh-link : for cloning repo.. before this ssh-key need to set up
 
+then added git remote named origin liked->
+
+	git remote add origin ssh-link
+	
+git remote: for finding out remotes name
+
+git remote show origin : for link and branch of that remote
+
+git push origin master :for pushing it to server named master branch
+
+(
+
+sequence is edit then  
+add
+then push.
+
+next day pull.
+)
 
 
 
