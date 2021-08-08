@@ -82,9 +82,12 @@ next day pull.
 
 cls-6
 
+<<<<<<< HEAD
 adding a .gitignore file is help full
 here we will add filename or *.extention for ignoring it.
 
+=======
+>>>>>>> 7ad1b6c1fcb8b739f5d89f54d6a88b81a243f6db
 
 
 
