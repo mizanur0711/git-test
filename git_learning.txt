@@ -37,7 +37,7 @@ git reset --hard *5hash* :  not keeping change going back.
 
 after push dont use reset.
 
-git commit --ammend  : it means you adding change to previous commit.
+git commit --amend  : it means you adding change to previous commit.
 
 
 cls-4
@@ -82,12 +82,9 @@ next day pull.
 
 cls-6
 
-<<<<<<< HEAD
 adding a .gitignore file is help full
 here we will add filename or *.extention for ignoring it.
 
-=======
->>>>>>> 7ad1b6c1fcb8b739f5d89f54d6a88b81a243f6db
 
 
 
