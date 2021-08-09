@@ -112,6 +112,19 @@ alias is making
 alias would be stored in ~/.bashrc  -> its permatent
  	other alias setting need to initialize everytime
 
+
 cls-9
+
+Most commonly, forks are used to either propose changes to someone else's project or to use someone else's project as a starting point for your own idea. You can fork a repository to create a copy of the repository and make changes without affecting the upstream repository.
+
+to update existing fork->
+		create pull request.
+		then compare then update.
+		
+		
+		"course done"
+		 course link-https://www(dot)youtube(dot)com/playlist?list=PLoR56CteKZnC0lBlHdnVnq0J3yDhgbi9w
+		 
+		 replace "(dot)" with ".".
   
 
