@@ -85,22 +85,33 @@ cls-6
 adding a .gitignore file is help full
 here we will add filename or *.extention for ignoring it.
 
+cls-7
+
+when git conflict happen it shows by 
+<<<
+	
+>>>
+merge it manually or by the help of any tool.
+	
+( setting up alias:
+	
+alias gc="git commit"
 
 
+after it whenever we write gc it means git commit execute.
+	
+	
+cls-8
 
+A Bash alias is a method of supplementing or overriding Bash 	commands with new ones.
 
+alias is making
 
+(~ its  mean home)
+ 
+alias would be stored in ~/.bashrc  -> its permatent
+ 	other alias setting need to initialize everytime
 
-
-
-
-
-
-
-
-
-
-
-
-
+cls-9
+  
 
